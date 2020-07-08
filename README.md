@@ -1,1 +1,2 @@
-# coursera-capstone-week-3
+# Coursera_Capstone
+Github repository Setup
